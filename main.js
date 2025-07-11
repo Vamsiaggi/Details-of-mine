@@ -3,44 +3,32 @@ import './style.css'
 // Education data - you can modify this with your actual details
 const educationData = [
   {
-    degree: "Master of Science in Computer Science",
-    institution: "University of Technology",
-    location: "New York, NY",
-    duration: "2020 - 2022",
-    gpa: "3.8/4.0",
+    degree: "Your Degree Name",
+    institution: "Your University/College Name",
+    location: "City, State/Country",
+    duration: "Start Year - End Year",
+    gpa: "Your GPA/4.0",
     achievements: [
-      "Dean's List for 3 consecutive semesters",
-      "Research Assistant in AI/ML Lab",
-      "Published 2 papers in peer-reviewed journals"
+      "Your achievement 1",
+      "Your achievement 2",
+      "Your achievement 3"
     ],
-    coursework: ["Advanced Algorithms", "Machine Learning", "Database Systems", "Software Engineering"]
+    coursework: ["Course 1", "Course 2", "Course 3", "Course 4"]
   },
   {
-    degree: "Bachelor of Science in Information Technology",
-    institution: "State University",
-    location: "California, CA",
-    duration: "2016 - 2020",
-    gpa: "3.6/4.0",
+    degree: "Your Previous Degree",
+    institution: "Previous Institution",
+    location: "City, State/Country",
+    duration: "Start Year - End Year",
+    gpa: "Your GPA/4.0",
     achievements: [
-      "Graduated Magna Cum Laude",
-      "President of Computer Science Club",
-      "Winner of Annual Hackathon 2019"
+      "Achievement 1",
+      "Achievement 2",
+      "Achievement 3"
     ],
-    coursework: ["Data Structures", "Web Development", "Network Security", "Mobile App Development"]
-  },
-  {
-    degree: "High School Diploma",
-    institution: "Central High School",
-    location: "Texas, TX",
-    duration: "2012 - 2016",
-    gpa: "3.9/4.0",
-    achievements: [
-      "Valedictorian",
-      "National Honor Society Member",
-      "Science Fair Regional Winner"
-    ],
-    coursework: ["Advanced Placement Computer Science", "Calculus", "Physics", "Chemistry"]
+    coursework: ["Course 1", "Course 2", "Course 3", "Course 4"]
   }
+  // Add more education entries as needed, or remove entries you don't want
 ];
 
 const certifications = [
